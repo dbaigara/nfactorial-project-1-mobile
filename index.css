@@ -233,7 +233,12 @@ line-height: 18px;
     flex-direction: row;
     /* padding-right: 40px; */
 }
+.sd-text {
+    /* display: flex; */
+    width: 100%;
+}
 .second-div {
+
     display: flex;
     flex-direction: column;
     height: 562px;
@@ -864,7 +869,7 @@ height: 50px;
     .td-2cel-img img{
         display: flex;
         /* justify-content: flex-end; */
-        width: 303.83px;
+        width: 311.83px;
         height: 213.33px;
     }
     .td-2cel-right-1col {
